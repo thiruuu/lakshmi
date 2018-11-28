@@ -14,7 +14,7 @@ class Evenodd {
    }
    else
    {
-     System.out.println("Invalid");
+     System.out.println("invalid");
    }
    }
    // System.out.println("Hello world!");
