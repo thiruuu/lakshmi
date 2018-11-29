@@ -2,10 +2,9 @@
 #include<string.h>
 int main()
 {
-    int a;
+    int a,i,j;
     int arr[5][5];
     int count=0;
-    int i,j;
     scanf("%d",&a);
     for(i=1;i<=a;i++)
     {
