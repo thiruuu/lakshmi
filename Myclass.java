@@ -11,11 +11,11 @@ public class MyClass {
        }
        if(n%2==0)
        {
-           System.out.println("Yes");
+           System.out.println("no");
        }
        else
        {
-           System.out.println("No");
+           System.out.println("yes");
        }
     }
 }
